@@ -11,7 +11,9 @@
     "name": "test-expo",
     "slug": "test-expo",
     "plugins": [
-      "expo-font"
+      "expo-font",
+      "expo-router",
+      "expo-secure-store"
     ]
   }
 }
